@@ -1,0 +1,307 @@
+The thread 34540 has exited with code 0 (0x0).
+The thread 8164 has exited with code 0 (0x0).
+The thread 18624 has exited with code 0 (0x0).
+The thread 29380 has exited with code 0 (0x0).
+The thread 34472 has exited with code 0 (0x0).
+The thread 34580 has exited with code 0 (0x0).
+RemoteCommandsLog Information: 0 : Placing command 'Extension1.Command1' on 'E&xtensions' has been processed
+RemoteCommandsLog Information: 0 : Placing command 'Extension2.Command1' on 'E&xtensions' has been processed
+System.Windows.Data Error: 40 : BindingExpression path error: 'AreChildItemsDisplayed' property not found on 'object' ''DataSource' (HashCode=28610724)'. BindingExpression:Path=AreChildItemsDisplayed; DataItem='DataSource' (HashCode=28610724); target element is 'VsMenuItem' (Name=''); target property is 'IsSubmenuOpen' (type 'Boolean')
+System.Windows.Data Error: 5 : Value produced by BindingExpression is not valid for target property.; Value='<null>' BindingExpression:Path=ShortcutText; DataItem='DataSource' (HashCode=28610724); target element is 'VsMenuItem' (Name=''); target property is 'AcceleratorKey' (type 'String')
+System.Windows.Data Error: 40 : BindingExpression path error: 'AreChildItemsDisplayed' property not found on 'object' ''DataSource' (HashCode=22688855)'. BindingExpression:Path=AreChildItemsDisplayed; DataItem='DataSource' (HashCode=22688855); target element is 'VsMenuItem' (Name=''); target property is 'IsSubmenuOpen' (type 'Boolean')
+System.Windows.Data Error: 5 : Value produced by BindingExpression is not valid for target property.; Value='<null>' BindingExpression:Path=ShortcutText; DataItem='DataSource' (HashCode=22688855); target element is 'VsMenuItem' (Name=''); target property is 'AcceleratorKey' (type 'String')
+The thread 35196 has exited with code 0 (0x0).
+The thread 9376 has exited with code 0 (0x0).
+The thread 9360 has exited with code 0 (0x0).
+RemoteCommandsLog Information: 0 : Attempting to load service 'Extension2.ExtensionEntrypointCommandSet (1.0)' for command set 'Extension2.ExtensionEntrypoint'
+The thread 19140 has exited with code 0 (0x0).
+Exception thrown: 'System.IO.FileNotFoundException' in mscorlib.dll
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\USERS\JOAO MATOS\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\17.0_F5766713EXP\EXTENSIONS\PUBLISHER NAME\EXTENSION2\1.0\Extension2.dll'. Symbols loaded.
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\USERS\JOAO MATOS\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\17.0_F5766713EXP\EXTENSIONS\PUBLISHER NAME\EXTENSION2\1.0\Microsoft.VisualStudio.Extensibility.dll'. Symbol loading disabled by Include/Exclude setting.
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\USERS\JOAO MATOS\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\17.0_F5766713EXP\EXTENSIONS\PUBLISHER NAME\EXTENSION2\1.0\Microsoft.VisualStudio.Extensibility.Framework.dll'. Symbol loading disabled by Include/Exclude setting.
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\USERS\JOAO MATOS\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\17.0_F5766713EXP\EXTENSIONS\PUBLISHER NAME\EXTENSION2\1.0\Microsoft.VisualStudio.Extensibility.Contracts.dll'. Symbol loading disabled by Include/Exclude setting.
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'rpcProxies_ef46f43f-4ae1-4c2e-ad6f-b0c67ca7f1c0'. 
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\CommonExtensions\Microsoft\Extensibility\Microsoft.Extensions.DependencyInjection.dll'. Symbol loading disabled by Include/Exclude setting.
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'c:\program files\microsoft visual studio\2022\professional\common7\ide\commonextensions\microsoft\extensibility\ServiceHub.Host.Extensibility.Contracts.dll'. Symbol loading disabled by Include/Exclude setting.
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'rpcProxies_4d82c6a0-4b2d-4d4a-801d-0788e3304f2e'. 
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin\Microsoft.NET.StringTools.dll'. Symbol loading disabled by Include/Exclude setting.
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in Nerdbank.Streams.dll
+Exception thrown: 'System.InvalidOperationException' in System.IO.Pipelines.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'rpcProxies_3320596e-6c5b-4292-9868-509b236caf25'. 
+Exception thrown: 'System.InvalidOperationException' in System.IO.Pipelines.dll
+Exception thrown: 'System.OperationCanceledException' in mscorlib.dll
+Exception thrown: 'System.OperationCanceledException' in Nerdbank.Streams.dll
+'devenv.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'rpcProxies_8c3d50b0-153f-43b8-aaa9-245590aa7407'. 
+RemoteCommandsLog Information: 0 : Command set service 'Extension2.ExtensionEntrypointCommandSet (1.0)' loaded
+Exception thrown: 'System.IO.FileNotFoundException' in mscorlib.dll
+Exception thrown: 'System.IO.FileNotFoundException' in mscorlib.dll
+JsonRpc Error: 10 : Exception thrown from request "3" for method ExecuteCommandAsync: System.AggregateException: One or more errors occurred. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The system cannot find the file specified.
+   at Extension2.Command1.<ExecuteCommandAsync>d__5.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Extension2.Command1.ExecuteCommandAsync(IClientContext context, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Extensibility.Commands.ExecutableCommandHandler.<ExecuteCommandAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Extensibility.Commands.CommandSetProvider.<ExecuteCommandAsync>d__16.MoveNext()
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at Extension2.Command1.<ExecuteCommandAsync>d__5.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Extension2.Command1.ExecuteCommandAsync(IClientContext context, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Extensibility.Commands.ExecutableCommandHandler.<ExecuteCommandAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Extensibility.Commands.CommandSetProvider.<ExecuteCommandAsync>d__16.MoveNext()
+
+=== Pre-bind state information ===
+LOG: DisplayName = Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+ (Fully-specified)
+LOG: Appbase = file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/
+LOG: Initial PrivatePath = NULL
+Calling assembly : Extension2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in LoadFrom load context.
+WRN: Native image will not be probed in LoadFrom context. Native image will only be probed in default load context, like with Assembly.Load().
+LOG: Using application configuration file: C:\Users\Joao Matos\AppData\Local\Temp\dev7D58.tmp
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+<---
+
+JsonRpc Error: 10 : System.AggregateException: One or more errors occurred. ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The system cannot find the file specified.
+   at Extension2.Command1.<ExecuteCommandAsync>d__5.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Extension2.Command1.ExecuteCommandAsync(IClientContext context, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Extensibility.Commands.ExecutableCommandHandler.<ExecuteCommandAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Extensibility.Commands.CommandSetProvider.<ExecuteCommandAsync>d__16.MoveNext()
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The system cannot find the file specified.
+File name: 'Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at Extension2.Command1.<ExecuteCommandAsync>d__5.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Extension2.Command1.ExecuteCommandAsync(IClientContext context, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Extensibility.Commands.ExecutableCommandHandler.<ExecuteCommandAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Extensibility.Commands.CommandSetProvider.<ExecuteCommandAsync>d__16.MoveNext()
+
+=== Pre-bind state information ===
+LOG: DisplayName = Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+ (Fully-specified)
+LOG: Appbase = file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/
+LOG: Initial PrivatePath = NULL
+Calling assembly : Extension2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in LoadFrom load context.
+WRN: Native image will not be probed in LoadFrom context. Native image will only be probed in default load context, like with Assembly.Load().
+LOG: Using application configuration file: C:\Users\Joao Matos\AppData\Local\Temp\dev7D58.tmp
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi.EXE.
+LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+<---
+, ExecuteCommandAsync, 3, 
+Exception thrown: 'StreamJsonRpc.RemoteInvocationException' in StreamJsonRpc.dll
+Exception thrown: 'StreamJsonRpc.RemoteInvocationException' in mscorlib.dll
+Exception thrown: 'StreamJsonRpc.RemoteInvocationException' in mscorlib.dll
+Exception thrown: 'StreamJsonRpc.RemoteInvocationException' in mscorlib.dll
+Exception thrown: 'StreamJsonRpc.RemoteInvocationException' in mscorlib.dll
+RemoteCommandsLog Error: 0 : Error executing command Extension2.ExtensionEntrypoint:Extension2.Command1 (Sample Remote Command 2)
+
+RemoteInvocationException: Could not load file or assembly 'Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The system cannot find the file specified.
+
+StreamJsonRpc.JsonRpc.<InvokeCoreAsync>d__156`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.VisualStudio.Commands.Client.Models.CommandSetModel.<>c__DisplayClass52_0.<<ExecuteCommandAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.VisualStudio.Threading.ReentrantSemaphore.NotAllowedSemaphore.<>c__DisplayClass2_0.<<ExecuteAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.VisualStudio.Threading.ReentrantSemaphore.NotAllowedSemaphore.<ExecuteAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.VisualStudio.Commands.Client.Models.CommandSetModel.RemoteCommandModel.<ExecAsync>d__28.MoveNext()
+
+HResult: 0x80131500
+Inner Exception: 
+    FileNotFoundException: Could not load file or assembly 'Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The system cannot find the file specified.
+
+Extension2.Command1.<ExecuteCommandAsync>d__5.MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+Extension2.Command1.ExecuteCommandAsync(IClientContext context, CancellationToken cancellationToken)
+Microsoft.VisualStudio.Extensibility.Commands.ExecutableCommandHandler.<ExecuteCommandAsync>d__18.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+Microsoft.VisualStudio.Extensibility.Commands.CommandSetProvider.<ExecuteCommandAsync>d__16.MoveNext()
+
+    File: Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    Fusion log: === Pre-bind state information ===
+    LOG: DisplayName = Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    (Fully-specified)
+    LOG: Appbase = file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/
+    LOG: Initial PrivatePath = NULL
+    Calling assembly : Extension2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+    ===
+    LOG: This bind starts in LoadFrom load context.
+    WRN: Native image will not be probed in LoadFrom context. Native image will only be probed in default load context, like with Assembly.Load().
+    LOG: Using application configuration file: C:\Users\Joao Matos\AppData\Local\Temp\dev7D58.tmp
+    LOG: Using host configuration file:
+    LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+    LOG: Post-policy reference: Microsoft.VisualStudio.Services.WebApi, Version=19.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/PrivateAssemblies/DataCollectors/x64/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.DLL.
+    LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi.EXE.
+    LOG: Attempting download of new URL file:///C:/USERS/JOAO MATOS/APPDATA/LOCAL/MICROSOFT/VISUALSTUDIO/17.0_F5766713EXP/EXTENSIONS/PUBLISHER NAME/EXTENSION2/1.0/Microsoft.VisualStudio.Services.WebApi/Microsoft.VisualStudio.Services.WebApi.EXE.
+
+
+Exception thrown: 'StreamJsonRpc.RemoteInvocationException' in Microsoft.VisualStudio.Commands.dll
+Exception thrown: 'StreamJsonRpc.RemoteInvocationException' in mscorlib.dll
+Exception thrown: 'Microsoft.VisualStudio.Services.ClientNotification.ClientNotificationServiceNotAvailableException' in Microsoft.VisualStudio.Services.WebApi.dll
+Exception thrown: 'Microsoft.VisualStudio.Services.ClientNotification.ClientNotificationServiceNotAvailableException' in mscorlib.dll
+Exception thrown: 'Microsoft.VisualStudio.Services.ClientNotification.ClientNotificationServiceNotAvailableException' in mscorlib.dll
+Exception thrown: 'Microsoft.VisualStudio.Services.ClientNotification.ClientNotificationServiceNotAvailableException' in mscorlib.dll
+Exception thrown: 'Microsoft.VisualStudio.Services.ClientNotification.ClientNotificationServiceNotAvailableException' in mscorlib.dll
+Exception thrown: 'Microsoft.VisualStudio.Services.ClientNotification.ClientNotificationServiceNotAvailableException' in mscorlib.dll
+Exception thrown: 'Microsoft.VisualStudio.Services.ClientNotification.ClientNotificationServiceNotAvailableException' in mscorlib.dll
+Exception thrown: 'Microsoft.VisualStudio.Services.ClientNotification.ClientNotificationServiceNotAvailableException' in mscorlib.dll
+The thread 29948 has exited with code 0 (0x0).
+The thread 36732 has exited with code 0 (0x0).
+The thread 29328 has exited with code 0 (0x0).
+The thread 34384 has exited with code 0 (0x0).
+The thread 548 has exited with code 0 (0x0).
+The thread 15200 has exited with code 0 (0x0).
+The thread 7792 has exited with code 0 (0x0).
+The thread 30048 has exited with code 0 (0x0).
+The thread 33324 has exited with code 0 (0x0).
+The thread 16884 has exited with code 0 (0x0).
+The thread 29936 has exited with code 0 (0x0).
+The thread 35080 has exited with code 0 (0x0).
+The thread 22932 has exited with code 0 (0x0).
+The thread 24876 has exited with code 0 (0x0).
+The thread 11616 has exited with code 0 (0x0).
+The thread 12984 has exited with code 0 (0x0).
